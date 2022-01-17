@@ -15,7 +15,7 @@ $city=$_POST['city'];
 ?>
 
 <form method="post">
-
+<h1>form name</h1>
 <tr>
     <td>name</td>
     <td><input type="text" name="name"/></td>
